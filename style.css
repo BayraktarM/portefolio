@@ -1,0 +1,248 @@
+* {
+    color: white;
+    background-color: black;
+    margin: 0px;
+}
+
+header {
+    background-image: url(https://img.freepik.com/photos-gratuite/rendu-3d-arriere-plan-abstrait-noir-blanc_23-2150913903.jpg);
+   box-shadow:inset 0PX 0px 20px 12px white ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    height: 100vh;
+    color: rgb(0, 0, 0);
+    margin-bottom: 300PX; 
+
+}
+#mar{
+    font-size: 110PX;
+}
+#bou{
+    margin-bottom: 300PX;
+   font-size: 30PX;
+}
+.g{
+    font-size: 37px;
+    border-style: double;
+    border-radius: 15PX;
+    margin-bottom: 38PX;
+    padding: 10PX;
+}
+#moif {
+    width: 380PX;
+    border-radius: 220PX;
+    box-shadow: 0PX 0PX 20PX 2PX white;
+}
+
+#un {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+#moi {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    /* width: 604PX; */
+    align-items: center;
+   
+}
+
+#spitch {
+    width: 427PX;
+    display: flex;
+    align-items: center;
+    margin-bottom: 150px;
+}
+
+.carte1 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    border: solid;
+   box-shadow:  0PX 0PX 20PX 2PX white;
+   width: 300PX;
+   border-radius: 18px;
+}
+
+
+.img1 {
+    width: 300PX;
+    height: 168.750;
+    border-radius: 15px;
+}
+.img2{
+    width: 300PX;
+    height: 168.750PX;
+    border-radius: 15px;
+
+}
+.img3{
+    width: 300px;
+    height: 200px;
+    border-radius: 15px;
+
+}
+
+#p1 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.pp {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#p2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#FE {
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+    flex-wrap: nowrap;
+    margin-bottom: 150px;
+}
+
+#portof {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 150Px;
+}
+
+.pcf {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 150px;
+}
+
+.mail {
+    display: inline-flex;
+    border-style: inset;
+    flex-direction: column;
+    align-items: center;
+}
+
+#contacte {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+#cont {
+    display: flex
+    ;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        box-shadow:0PX 0PX 20PX 2PX white;
+
+}
+
+#c {
+    display: flex;
+    justify-content: center;
+    height: 20px;
+    width: 107px;
+}
+
+#com {display: inline-flex
+    ;
+        align-items: center;
+        flex-direction: column;
+        box-shadow: 0PX 0PX 20PX 2PX white;
+    }
+
+.z {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    display: flex
+;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0PX 0PX 20PX 2PX white;
+
+}
+
+#story1 {
+    width: 200PX;
+    height: 30PX;
+}
+
+#msg {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#story {
+    width: 300PX;
+    HEIGHT: 120PX
+}
+footer{
+    background-color: white;
+    color: black;
+    display: flex
+;
+    align-items: center;
+    justify-content: center;
+    border-radius: 27PX;
+    box-shadow: 5PX 3px 20px 11px white;
+}
+.favoriteM{
+    background-color: white;
+    color: black;
+    border-radius: 20Px;
+    font-size: 30PX;
+
+}
+.t{  border-style: inset;
+display: inline-flex;
+padding: 3px;
+}
+#np{display: flex
+    ;
+        flex-direction: column;
+        align-items: center;
+    }
+    #reste{
+        display: flex
+        ;
+            flex-direction: column;
+           margin-bottom: 150PX;
+            align-items: center;
+    }
+    #name{
+        width: 170PX;
+    height: 30PX;
+    border-radius:  30px; 
+    }
+    #namedeux{
+        width: 300PX;
+    height: 120PX;
+    border-radius:  30px; 
+
+    }
+    a{border-radius: 20PX;}
+
+    .w{
+        border-radius: 20px;
+        text-align: center;
+    }
