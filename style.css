@@ -1,12 +1,13 @@
 * {
-    color: rgb(0, 0, 0);
-    background-color: rgb(255, 255, 255);
+    color: #03d09a;
+    background-color: #15304e;
     margin: 0px;
+    font-family: "Cinzel", serif;
 }
 
 header {
-    background-image: url(https://img.freepik.com/photos-gratuite/rendu-3d-arriere-plan-abstrait-noir-blanc_23-2150913903.jpg);
-   box-shadow:inset 0PX 0px 20px 12px white ;
+    background-image: url(https://i.pinimg.com/originals/0e/39/c2/0e39c256714a4b7c0299323a82701647.jpg);
+   box-shadow:inset 0PX 0px 20px 12px #15304e;
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -16,7 +17,7 @@ header {
     height: 100vh;
     color: rgb(0, 0, 0);
     margin-bottom: 300PX; 
-
+border-radius: 155PX;
 }
 #mar{
     font-size: 110PX;
@@ -35,7 +36,7 @@ header {
 #moif {
     width: 380PX;
     border-radius: 220PX;
-    box-shadow: 0PX 0PX 20PX 2PX #b7b7b7;
+    box-shadow: 0PX 0PX 20PX 2PX #03d09a;
 }
 
 #un {
@@ -66,8 +67,8 @@ header {
     flex-direction: column;
     align-items: center;
     border: solid;
-   box-shadow:  0PX 0PX 20PX 2PX #b7b7b7;
-   width: 300PX;
+    box-shadow:9PX 10PX 13PX 3px #000;
+       width: 300PX;
    border-radius: 18px;
 }
 
@@ -136,6 +137,7 @@ header {
     border-style: inset;
     flex-direction: column;
     align-items: center;
+    width: 215PX
 }
 
 #contacte {
@@ -151,8 +153,7 @@ header {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        box-shadow:0PX 0PX 20PX 2PX #b7b7b7;
-
+margin-bottom: 50px;
 }
 
 #c {
@@ -166,19 +167,14 @@ header {
     ;
         align-items: center;
         flex-direction: column;
-        box-shadow: 0PX 0PX 20PX 2PX #b7b7b7;
     }
 
-.z {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.Z {
+    
     display: flex
-;
-    flex-direction: column;
-    align-items: center;
-    box-shadow: 0PX 0PX 20PX 2PX #b7b7b7;
-
+    ;
+        flex-direction: column;
+        align-items: center
 }
 
 #story1 {
@@ -197,18 +193,18 @@ header {
     HEIGHT: 120PX
 }
 footer{
-    background-color: white;
-    color: black;
+    background-color: #03d09a;
+    color:#15304e;
     display: flex
 ;
     align-items: center;
     justify-content: center;
     border-radius: 27PX;
-    box-shadow: 5PX 3px 20px 11px white;
+    box-shadow: 5PX 3px 20px 11px #03d09a;
 }
 .favoriteM{
-    background-color: white;
-    color: black;
+    background-color: #03d09a;
+    color: #15304e;
     border-radius: 20Px;
     font-size: 30PX;
 
@@ -245,4 +241,52 @@ padding: 3px;
     .w{
         border-radius: 20px;
         text-align: center;
+    }
+    #compétance{
+        display: flex
+;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 150PX;
+    }
+    #li
+    {
+        font-size: 25PX;
+        display: flex
+        ;
+            justify-content: space-evenly;
+            flex-direction: row;
+            align-items: center;
+            margin-bottom: 150PX;
+    }
+    .img4{
+        width: 200px;
+    height: 178px;
+    border-radius: 15px;
+    }
+    .carte2{
+        display: inline-flex
+;
+    flex-direction: column;
+    align-items: center;
+    border: solid;
+    box-shadow:9PX 10PX 13PX 3px #000;
+    width: 206PX;
+    border-radius: 18px;
+    }
+    #fin{
+        color: #15304e;
+        background-color: #03d09a;
+    }
+    #area{
+        display: flex
+;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 150px;
+    }
+    #img5{
+       width:  525PX;
+       box-shadow:inset 0PX 0px 20px 12px #15304e;
     }
