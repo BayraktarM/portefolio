@@ -289,7 +289,7 @@ footer{
     border: solid;
     box-shadow:9PX 10PX 13PX 3px #000;
     width: auto;
-    border-radius: 18px;
+    border-radius: 1_px;
     }
     #fin{
         color: #15304e;
